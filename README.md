@@ -12,18 +12,20 @@
   <a href="https://nishthasinghportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://www.linkedin.com/in/nishtha-singh-37a901233/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://github.com/NishthaSingh7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-✓-22c55e?style=for-the-badge" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/Location-Mumbai%20🇮🇳-64748b?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Based%20in-Noida%20🇮🇳-64748b?style=for-the-badge" alt="Location"/>
 </p>
 
 ---
 
 ## About Me
 
-I'm a **Full Stack Engineer** at **Procedure**, based in **Mumbai**. I build intelligent web experiences — from sleek React frontends to AI-powered backends with real-time computer vision, RAG pipelines, and LLM integrations.
+I'm a **Full Stack Engineer** at **Procedure Technologies** (Mumbai), based in **Noida**. I build intelligent web experiences — from sleek React frontends to AI-powered backends with real-time computer vision, RAG pipelines, and LLM integrations.
 
 When I'm not coding, I'm exploring new AI research, building side projects, or creating learning platforms to help others grow as developers.
 
@@ -51,18 +53,17 @@ When I'm not coding, I'm exploring new AI research, building side projects, or c
 
 ---
 
-## Featured Projects
+## Pinned Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**AI Proctoring System**](https://github.com/NishthaSingh7/AI_Powered_ProctoringSystem) | Real-time exam monitoring with face detection, tab tracking, and risk scoring dashboard | React · TensorFlow.js · Node.js · MongoDB |
-| [**Nish-Ed**](https://github.com/NishthaSingh7/nish-educates) | Full-stack learning platform with courses, assessments, and AI proctoring integration | React · Node.js · MongoDB |
-| [**AI PDF Assistant**](https://github.com/NishthaSingh7/pdfAgentNish) | RAG-powered PDF assistant with hybrid retrieval and LLM-based Q&A | Python · Streamlit · LangChain · ChromaDB |
-| [**MERN Product Store**](https://github.com/NishthaSingh7/mern-charkra-ui) | Inventory management app with category filtering and modern dashboard UI | MERN · Chakra UI · Zustand |
-| [**Knowledge Base App**](https://github.com/NishthaSingh7/knowledge-base-app) | Full-stack app to create, search, and manage articles with secure auth | [Live Demo](https://knowledge-base-app-tau.vercel.app) |
-| [**Pattern-Based DSA**](https://github.com/NishthaSingh7/pattern-based-dsa-nishtha) | Structured DSA practice repo organized by coding patterns | Python · Algorithms |
+| [**AI Interview Co-Pilot**](https://github.com/NishthaSingh7/ai-interview-copilot) | Resume-aware mock interview simulator with personalized AI question generation | React · TypeScript · FastAPI · Gemini |
+| [**Train with Nish**](https://github.com/NishthaSingh7/TrainWithNish) | Fitness coaching platform with muscle mapping, PR tracking, and protein logging | React · Vite · TypeScript |
+| [**AfterNoise AI**](https://github.com/NishthaSingh7/AfterNoise-AI) | Emotional wellness platform with multi-domain RAG and context-aware AI responses | Angular · Node.js · Gemini · RAG |
+| [**AI Proctoring System**](https://github.com/NishthaSingh7/AI_Powered_ProctoringSystem) | Real-time exam monitoring with face detection, tab tracking, and risk scoring | React · TensorFlow.js · Node.js · MongoDB |
+| [**Pattern-Based DSA**](https://github.com/NishthaSingh7/pattern-based-dsa-nishtha) | Structured DSA practice repository organized by coding patterns | Python · Algorithms |
 
-> More projects on my [portfolio](https://nishthasinghportfolio.netlify.app/) — including AfterNoise AI, AI Interview Co-Pilot, and Reactive Minds.
+> See more on my [portfolio](https://nishthasinghportfolio.netlify.app/) — Nish-Ed, AI PDF Assistant, MERN Product Store, and more.
 
 ---
 
@@ -79,24 +80,13 @@ When I'm not coding, I'm exploring new AI research, building side projects, or c
 
 ---
 
-## Currently Building
-
-- **Train with Nish** — Personalized fitness coaching platform with workout plans, muscle mapping, and progress tracking *(coming soon to GitHub)*
-- **AI Interview Co-Pilot** — Resume-aware interview simulator with context-driven question generation
-
----
-
 ## Let's Connect
 
 <p align="center">
   <a href="https://nishthasinghportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/View_Portfolio-→-6366f1?style=for-the-badge" alt="View Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-→-6366f1?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="https://nishthasinghportfolio.netlify.app/#contact">
-    <img src="https://img.shields.io/badge/Get_in_Touch-→-0ea5e9?style=for-the-badge" alt="Get in Touch"/>
+  <a href="https://www.linkedin.com/in/nishtha-singh-37a901233/">
+    <img src="https://img.shields.io/badge/LinkedIn-→-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
-<p align="center">
-  <i>Open to freelance projects, full-time roles, and AI collaborations.</i>
 </p>
