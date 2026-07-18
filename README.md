@@ -25,7 +25,7 @@
 
 ## About Me
 
-I'm a **Full Stack Engineer** at **Procedure Technologies** (Mumbai), based in **Noida**. I build intelligent web experiences — from sleek React frontends to AI-powered backends with real-time computer vision, RAG pipelines, and LLM integrations.
+I'm a **Full Stack Engineer** at **Procedure Technologies**, based in **Noida**. I build intelligent web experiences — from sleek React frontends to AI-powered backends with real-time computer vision, RAG pipelines, and LLM integrations.
 
 When I'm not coding, I'm exploring new AI research, building side projects, or creating learning platforms to help others grow as developers.
 
