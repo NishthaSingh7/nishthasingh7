@@ -57,6 +57,7 @@ When I'm not coding, I'm exploring new AI research, building side projects, or c
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [**Agentic AI Notebook 2026**](https://github.com/NishthaSingh7/agentic-ai-notebook-2026) · [Live](https://agentic-ai-notebook-2026.netlify.app) | Open-source Agentic AI curriculum for engineers — 155 modules, lessons, interview prep | Next.js · React · TypeScript |
 | [**AI Interview Co-Pilot**](https://github.com/NishthaSingh7/ai-interview-copilot) | Resume-aware mock interview simulator with personalized AI question generation | React · TypeScript · FastAPI · Gemini |
 | [**Train with Nish**](https://github.com/NishthaSingh7/TrainWithNish) | Fitness coaching platform with muscle mapping, PR tracking, and protein logging | React · Vite · TypeScript |
 | [**AfterNoise AI**](https://github.com/NishthaSingh7/AfterNoise-AI) | Emotional wellness platform with multi-domain RAG and context-aware AI responses | Angular · Node.js · Gemini · RAG |
